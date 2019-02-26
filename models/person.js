@@ -9,7 +9,8 @@ var personSchema = new Schema({
     },
     ci: String,
     phoneNumber1: String,
-    phoneNumber2: String
+    phoneNumber2: String,
+    email: String
 },{collection:'people'});
 
 personSchema.virtual('fullName').get(function () {
