@@ -10,7 +10,7 @@ module.exports = function(app) {
        // seed database
        var starterCondominiums = [
            {
-               name: 'Esmirna'
+               name: 'Nabor'
            }
        ];
        Condominium.create(starterCondominiums, function(err, results) {
