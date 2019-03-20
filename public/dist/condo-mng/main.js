@@ -23,6 +23,230 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 
 /***/ }),
 
+/***/ "./src/app/apartments/apartment-detail/apartment-detail.component.css":
+/*!****************************************************************************!*\
+  !*** ./src/app/apartments/apartment-detail/apartment-detail.component.css ***!
+  \****************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwYXJ0bWVudHMvYXBhcnRtZW50LWRldGFpbC9hcGFydG1lbnQtZGV0YWlsLmNvbXBvbmVudC5jc3MifQ== */"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-detail/apartment-detail.component.html":
+/*!*****************************************************************************!*\
+  !*** ./src/app/apartments/apartment-detail/apartment-detail.component.html ***!
+  \*****************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<p>\n  apartment-detail works!\n</p>\n"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-detail/apartment-detail.component.ts":
+/*!***************************************************************************!*\
+  !*** ./src/app/apartments/apartment-detail/apartment-detail.component.ts ***!
+  \***************************************************************************/
+/*! exports provided: ApartmentDetailComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ApartmentDetailComponent", function() { return ApartmentDetailComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var ApartmentDetailComponent = /** @class */ (function () {
+    function ApartmentDetailComponent() {
+    }
+    ApartmentDetailComponent.prototype.ngOnInit = function () {
+    };
+    ApartmentDetailComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-apartment-detail',
+            template: __webpack_require__(/*! ./apartment-detail.component.html */ "./src/app/apartments/apartment-detail/apartment-detail.component.html"),
+            styles: [__webpack_require__(/*! ./apartment-detail.component.css */ "./src/app/apartments/apartment-detail/apartment-detail.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], ApartmentDetailComponent);
+    return ApartmentDetailComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.css":
+/*!***************************************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-item/apartment-item.component.css ***!
+  \***************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwYXJ0bWVudHMvYXBhcnRtZW50LWxpc3QvYXBhcnRtZW50LWl0ZW0vYXBhcnRtZW50LWl0ZW0uY29tcG9uZW50LmNzcyJ9 */"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.html":
+/*!****************************************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-item/apartment-item.component.html ***!
+  \****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<p>\n  apartment-item works!\n</p>\n"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.ts":
+/*!**************************************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-item/apartment-item.component.ts ***!
+  \**************************************************************************************/
+/*! exports provided: ApartmentItemComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ApartmentItemComponent", function() { return ApartmentItemComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var ApartmentItemComponent = /** @class */ (function () {
+    function ApartmentItemComponent() {
+    }
+    ApartmentItemComponent.prototype.ngOnInit = function () {
+    };
+    ApartmentItemComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-apartment-item',
+            template: __webpack_require__(/*! ./apartment-item.component.html */ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.html"),
+            styles: [__webpack_require__(/*! ./apartment-item.component.css */ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], ApartmentItemComponent);
+    return ApartmentItemComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-list.component.css":
+/*!************************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-list.component.css ***!
+  \************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwYXJ0bWVudHMvYXBhcnRtZW50LWxpc3QvYXBhcnRtZW50LWxpc3QuY29tcG9uZW50LmNzcyJ9 */"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-list.component.html":
+/*!*************************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-list.component.html ***!
+  \*************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<p>\n  apartment-list works!\n</p>\n"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartment-list/apartment-list.component.ts":
+/*!***********************************************************************!*\
+  !*** ./src/app/apartments/apartment-list/apartment-list.component.ts ***!
+  \***********************************************************************/
+/*! exports provided: ApartmentListComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ApartmentListComponent", function() { return ApartmentListComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var ApartmentListComponent = /** @class */ (function () {
+    function ApartmentListComponent() {
+    }
+    ApartmentListComponent.prototype.ngOnInit = function () {
+    };
+    ApartmentListComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-apartment-list',
+            template: __webpack_require__(/*! ./apartment-list.component.html */ "./src/app/apartments/apartment-list/apartment-list.component.html"),
+            styles: [__webpack_require__(/*! ./apartment-list.component.css */ "./src/app/apartments/apartment-list/apartment-list.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], ApartmentListComponent);
+    return ApartmentListComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartments.component.css":
+/*!*****************************************************!*\
+  !*** ./src/app/apartments/apartments.component.css ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwYXJ0bWVudHMvYXBhcnRtZW50cy5jb21wb25lbnQuY3NzIn0= */"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartments.component.html":
+/*!******************************************************!*\
+  !*** ./src/app/apartments/apartments.component.html ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<p>\n  apartments works!\n</p>\n"
+
+/***/ }),
+
+/***/ "./src/app/apartments/apartments.component.ts":
+/*!****************************************************!*\
+  !*** ./src/app/apartments/apartments.component.ts ***!
+  \****************************************************/
+/*! exports provided: ApartmentsComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ApartmentsComponent", function() { return ApartmentsComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var ApartmentsComponent = /** @class */ (function () {
+    function ApartmentsComponent() {
+    }
+    ApartmentsComponent.prototype.ngOnInit = function () {
+    };
+    ApartmentsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-apartments',
+            template: __webpack_require__(/*! ./apartments.component.html */ "./src/app/apartments/apartments.component.html"),
+            styles: [__webpack_require__(/*! ./apartments.component.css */ "./src/app/apartments/apartments.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], ApartmentsComponent);
+    return ApartmentsComponent;
+}());
+
+
+
+/***/ }),
+
 /***/ "./src/app/app.component.css":
 /*!***********************************!*\
   !*** ./src/app/app.component.css ***!
@@ -41,7 +265,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<!--\n==================================================\nSlider Section Start\n================================================== -->\n<section id=\"hero-area\" >\n<div class=\"container\">\n    <div class=\"row\">\n        <div class=\"col-md-12 text-center\">\n            <div class=\"block wow fadeInUp\" data-wow-delay=\".3s\">\n                <!-- Slider -->\n                <section class=\"cd-intro\">\n                    <h1 class=\"wow fadeInUp animated cd-headline slide\" data-wow-delay=\".4s\" >\n                    <span>CONDOMINIO EDIFICIO {{ condo.name }}</span><br>\n                    <span class=\"cd-words-wrapper\">\n                        <b class=\"is-visible\">CONTROL</b>\n                        <b>PAGOS</b>\n                        <b>CONTACTOS</b>\n                    </span>\n                    </h1>\n                    </section> <!-- cd-intro -->\n                    <!-- /.slider -->\n                    <h2 class=\"wow fadeInUp animated\" data-wow-delay=\".6s\" >\n                    </h2>\n                    <a class=\"btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green\" data-wow-delay=\".9s\" href=\"#works\" data-section=\"#works\">View Works</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section><!--/#main-slider-->\n\n<!--\n<!--==================================================-->\n<!--Call To Action Section Start-->\n<!--================================================== -->\n<section id=\"call-to-action\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"block\">\n                    <h1 class=\"title wow fadeInDown\" data-wow-delay=\".3s\" data-wow-duration=\"500ms\">SO WHAT YOU THINK ?</h1>\n                    <p class=\"wow fadeInDown\" data-wow-delay=\".5s\" data-wow-duration=\"500ms\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>\n                    <a href=\"contact.html\" class=\"btn btn-default btn-contact wow fadeInDown\" data-wow-delay=\".7s\" data-wow-duration=\"500ms\">Contact With Me</a>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>"
+module.exports = "<app-header></app-header>\n<app-home></app-home>\n<app-footer></app-footer>"
 
 /***/ }),
 
@@ -57,25 +281,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var _condo_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./condo.service */ "./src/app/condo.service.ts");
-
 
 
 var AppComponent = /** @class */ (function () {
-    function AppComponent(condoService) {
-        this.condoService = condoService;
+    function AppComponent() {
         this.title = 'condo-mng';
-        this.id = '5c7a04021e4ae916c97af8a2';
     }
-    AppComponent.prototype.getCondo = function (id) {
-        var _this = this;
-        this.condoService.getCondo(id)
-            .subscribe(function (condo) {
-            _this.condo = condo;
-        });
-    };
     AppComponent.prototype.ngOnInit = function () {
-        this.getCondo(this.id);
     };
     AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -83,7 +295,7 @@ var AppComponent = /** @class */ (function () {
             template: __webpack_require__(/*! ./app.component.html */ "./src/app/app.component.html"),
             styles: [__webpack_require__(/*! ./app.component.css */ "./src/app/app.component.css")]
         }),
-        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_condo_service__WEBPACK_IMPORTED_MODULE_2__["CondoService"]])
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
     ], AppComponent);
     return AppComponent;
 }());
@@ -109,6 +321,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var _person_person_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./person/person.component */ "./src/app/person/person.component.ts");
 /* harmony import */ var _condo_condo_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./condo/condo.component */ "./src/app/condo/condo.component.ts");
+/* harmony import */ var _apartments_apartments_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./apartments/apartments.component */ "./src/app/apartments/apartments.component.ts");
+/* harmony import */ var _apartments_apartment_list_apartment_list_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./apartments/apartment-list/apartment-list.component */ "./src/app/apartments/apartment-list/apartment-list.component.ts");
+/* harmony import */ var _apartments_apartment_detail_apartment_detail_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./apartments/apartment-detail/apartment-detail.component */ "./src/app/apartments/apartment-detail/apartment-detail.component.ts");
+/* harmony import */ var _apartments_apartment_list_apartment_item_apartment_item_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./apartments/apartment-list/apartment-item/apartment-item.component */ "./src/app/apartments/apartment-list/apartment-item/apartment-item.component.ts");
+/* harmony import */ var _home_home_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./home/home.component */ "./src/app/home/home.component.ts");
+/* harmony import */ var _header_header_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./header/header.component */ "./src/app/header/header.component.ts");
+/* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./footer/footer.component */ "./src/app/footer/footer.component.ts");
+
+
+
+
+
+
+
 
 
 
@@ -124,7 +350,14 @@ var AppModule = /** @class */ (function () {
             declarations: [
                 _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
                 _person_person_component__WEBPACK_IMPORTED_MODULE_5__["PersonComponent"],
-                _condo_condo_component__WEBPACK_IMPORTED_MODULE_6__["CondoComponent"]
+                _condo_condo_component__WEBPACK_IMPORTED_MODULE_6__["CondoComponent"],
+                _apartments_apartments_component__WEBPACK_IMPORTED_MODULE_7__["ApartmentsComponent"],
+                _apartments_apartment_list_apartment_list_component__WEBPACK_IMPORTED_MODULE_8__["ApartmentListComponent"],
+                _apartments_apartment_detail_apartment_detail_component__WEBPACK_IMPORTED_MODULE_9__["ApartmentDetailComponent"],
+                _apartments_apartment_list_apartment_item_apartment_item_component__WEBPACK_IMPORTED_MODULE_10__["ApartmentItemComponent"],
+                _home_home_component__WEBPACK_IMPORTED_MODULE_11__["HomeComponent"],
+                _header_header_component__WEBPACK_IMPORTED_MODULE_12__["HeaderComponent"],
+                _footer_footer_component__WEBPACK_IMPORTED_MODULE_13__["FooterComponent"]
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_2__["BrowserModule"], _angular_http__WEBPACK_IMPORTED_MODULE_3__["HttpModule"]
@@ -272,6 +505,186 @@ var Condo = /** @class */ (function () {
         Object.assign(this, values);
     }
     return Condo;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/footer/footer.component.css":
+/*!*********************************************!*\
+  !*** ./src/app/footer/footer.component.css ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2Zvb3Rlci9mb290ZXIuY29tcG9uZW50LmNzcyJ9 */"
+
+/***/ }),
+
+/***/ "./src/app/footer/footer.component.html":
+/*!**********************************************!*\
+  !*** ./src/app/footer/footer.component.html ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!--\n==================================================\nFooter Section Start\n================================================== -->\n<footer id=\"footer\">\n    <div class=\"container\">\n        <div class=\"col-md-8\">\n            <p class=\"copyright\">Copyright: <span><script>document.write(new Date().getFullYear())</script></span> Design and Developed by <a href=\"http://www.Themefisher.com\" target=\"_blank\">Themefisher</a>. <br> \n                Get More \n                <a href=\"https://themefisher.com/free-bootstrap-templates/\" target=\"_blank\">\n                    Free Bootstrap Templates\n                </a>\n            </p>\n        </div>\n        <div class=\"col-md-4\">\n            <!-- Social Media -->\n            <ul class=\"social\">\n                <li>\n                    <a href=\"http://wwww.fb.com/themefisher\" class=\"Facebook\">\n                        <i class=\"ion-social-facebook\"></i>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"http://wwww.twitter.com/themefisher\" class=\"Twitter\">\n                        <i class=\"ion-social-twitter\"></i>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"#\" class=\"Linkedin\">\n                        <i class=\"ion-social-linkedin\"></i>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"http://wwww.fb.com/themefisher\" class=\"Google Plus\">\n                        <i class=\"ion-social-googleplus\"></i>\n                    </a>\n                </li>\n            </ul>\n        </div>\n    </div>\n</footer> <!-- /#footer -->\n"
+
+/***/ }),
+
+/***/ "./src/app/footer/footer.component.ts":
+/*!********************************************!*\
+  !*** ./src/app/footer/footer.component.ts ***!
+  \********************************************/
+/*! exports provided: FooterComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FooterComponent", function() { return FooterComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var FooterComponent = /** @class */ (function () {
+    function FooterComponent() {
+    }
+    FooterComponent.prototype.ngOnInit = function () {
+    };
+    FooterComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-footer',
+            template: __webpack_require__(/*! ./footer.component.html */ "./src/app/footer/footer.component.html"),
+            styles: [__webpack_require__(/*! ./footer.component.css */ "./src/app/footer/footer.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], FooterComponent);
+    return FooterComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/header/header.component.css":
+/*!*********************************************!*\
+  !*** ./src/app/header/header.component.css ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2hlYWRlci9oZWFkZXIuY29tcG9uZW50LmNzcyJ9 */"
+
+/***/ }),
+
+/***/ "./src/app/header/header.component.html":
+/*!**********************************************!*\
+  !*** ./src/app/header/header.component.html ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!--\n==================================================\nHeader Section Start\n================================================== -->\n<header id=\"top-bar\" class=\"navbar-fixed-top animated-header\">\n    <div class=\"container\">\n        <div class=\"navbar-header\">\n            <!-- responsive nav button -->\n            <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            </button>\n            <!-- /responsive nav button -->\n            \n            <!-- logo -->\n            <div class=\"navbar-brand\">\n                <a href=\"index.html\" >\n                    <img src=\"assets/images/logo.png\" alt=\"\">\n                </a>\n            </div>\n            <!-- /logo -->\n        </div>\n        <!-- main menu -->\n        <nav class=\"collapse navbar-collapse navbar-right\" role=\"navigation\">\n            <div class=\"main-menu\">\n                <ul class=\"nav navbar-nav navbar-right\">\n                    <li>\n                        <a href=\"index.html\" >Home</a>\n                    </li>\n                    <li>\n                        <a href=\"#\" >Apartamentos</a>\n                    </li>\n                </ul>\n            </div>\n        </nav>\n        <!-- /main nav -->\n    </div>\n</header>\n"
+
+/***/ }),
+
+/***/ "./src/app/header/header.component.ts":
+/*!********************************************!*\
+  !*** ./src/app/header/header.component.ts ***!
+  \********************************************/
+/*! exports provided: HeaderComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HeaderComponent", function() { return HeaderComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var HeaderComponent = /** @class */ (function () {
+    function HeaderComponent() {
+    }
+    HeaderComponent.prototype.ngOnInit = function () {
+    };
+    HeaderComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-header',
+            template: __webpack_require__(/*! ./header.component.html */ "./src/app/header/header.component.html"),
+            styles: [__webpack_require__(/*! ./header.component.css */ "./src/app/header/header.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], HeaderComponent);
+    return HeaderComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/home/home.component.css":
+/*!*****************************************!*\
+  !*** ./src/app/home/home.component.css ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2hvbWUvaG9tZS5jb21wb25lbnQuY3NzIn0= */"
+
+/***/ }),
+
+/***/ "./src/app/home/home.component.html":
+/*!******************************************!*\
+  !*** ./src/app/home/home.component.html ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<!--\n==================================================\nSlider Section Start\n================================================== -->\n<section id=\"hero-area\" >\n<div class=\"container\">\n    <div class=\"row\">\n        <div class=\"col-md-12 text-center\">\n            <div class=\"block wow fadeInUp\" data-wow-delay=\".3s\">\n                <!-- Slider -->\n                <section class=\"cd-intro\">\n                    <h1 class=\"wow fadeInUp animated cd-headline slide\" data-wow-delay=\".4s\" >\n                    <span>CONDOMINIO EDIFICIO {{ condo.name }}</span><br>\n                    <span class=\"cd-words-wrapper\">\n                        <b class=\"is-visible\">CONTROL</b>\n                        <b>PAGOS</b>\n                        <b>CONTACTOS</b>\n                    </span>\n                    </h1>\n                    </section> <!-- cd-intro -->\n                    <!-- /.slider -->\n                    <h2 class=\"wow fadeInUp animated\" data-wow-delay=\".6s\" >\n                    </h2>\n                    <a class=\"btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green\" data-wow-delay=\".9s\" href=\"#works\" data-section=\"#works\">View Works</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section><!--/#main-slider-->\n\n<!--\n<!--==================================================-->\n<!--Call To Action Section Start-->\n<!--================================================== -->\n<section id=\"call-to-action\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"block\">\n                    <h1 class=\"title wow fadeInDown\" data-wow-delay=\".3s\" data-wow-duration=\"500ms\">SO WHAT YOU THINK ?</h1>\n                    <p class=\"wow fadeInDown\" data-wow-delay=\".5s\" data-wow-duration=\"500ms\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium.</p>\n                    <a href=\"contact.html\" class=\"btn btn-default btn-contact wow fadeInDown\" data-wow-delay=\".7s\" data-wow-duration=\"500ms\">Contact With Me</a>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>"
+
+/***/ }),
+
+/***/ "./src/app/home/home.component.ts":
+/*!****************************************!*\
+  !*** ./src/app/home/home.component.ts ***!
+  \****************************************/
+/*! exports provided: HomeComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HomeComponent", function() { return HomeComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _condo_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../condo.service */ "./src/app/condo.service.ts");
+
+
+
+var HomeComponent = /** @class */ (function () {
+    function HomeComponent(condoService) {
+        this.condoService = condoService;
+        this.id = '5c7a04021e4ae916c97af8a2';
+    }
+    HomeComponent.prototype.getCondo = function (id) {
+        var _this = this;
+        this.condoService.getCondo(id)
+            .subscribe(function (condo) {
+            _this.condo = condo;
+        });
+    };
+    HomeComponent.prototype.ngOnInit = function () {
+        this.getCondo(this.id);
+    };
+    HomeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-home',
+            template: __webpack_require__(/*! ./home.component.html */ "./src/app/home/home.component.html"),
+            styles: [__webpack_require__(/*! ./home.component.css */ "./src/app/home/home.component.css")]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_condo_service__WEBPACK_IMPORTED_MODULE_2__["CondoService"]])
+    ], HomeComponent);
+    return HomeComponent;
 }());
 
 
